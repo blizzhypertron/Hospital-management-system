@@ -1,6 +1,6 @@
 Authors: Camron Hylton
 
-Date Created: July 20, 2025
+Date Created: July 24, 2025
 
 Course: ITT103
  
@@ -43,7 +43,7 @@ Linux/MacOS:
 
 Required Modifications:
 
-⦁	You must have the pygame module installed if your project includes music.
+⦁	You must have the pygame module installed IF your project includes music.
 Use "pip install pygame" if needed 
 
 ⦁	Make sure the system saves the patient and appointment data to a file, 
@@ -57,4 +57,4 @@ Assumptions & Limitations:
 ⦁	The program uses in-memory data only. All data is lost once the program is closed.
 ⦁	IDs are assumed to be unique and manually entered for login
 ⦁	Gender input is limited to "Male" or "Female".
-⦁	No payment system is integrated - billing is simulated.
+⦁ Payment system is integrated - billing is simulated.
